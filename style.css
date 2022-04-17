@@ -1,0 +1,9 @@
+body {
+    background: #000 url('https://edge.opsfet.ch/styles/postmod/images/wood.jpg') center top no-repeat fixed;
+    font-family: "SF Pro";
+}
+
+#content {
+    background: rgba(33, 50, 50, 0.5);
+    border-radius: 8px;
+}
