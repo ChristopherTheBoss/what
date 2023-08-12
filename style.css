@@ -1,9 +1,4 @@
 body {
-    background: #000 url('https://ptpimg.me/q6fa65.jpg') center top no-repeat fixed;
+    background: #3a291d url('https://ptpimg.me/q6fa65.jpg') center top no-repeat fixed;
     font-family: "SF Pro Text";
-}
-
-#content {
-    background: rgba(33, 50, 50, 0.25);
-    border-radius: 8px;
 }
